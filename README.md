@@ -13,7 +13,7 @@
 
 ---
 
-🏠 Based in **Sulaymaniyah, Iraq**
+🏠 Based in **Iraq**
 
 🎓 **Software Engineering** @ American University of Iraq, Sulaimani
 
