@@ -17,9 +17,8 @@
 
 🎓 **Software Engineering** @ American University of Iraq, Sulaimani
 
-💼 Freelance Web Developer · Automation Expert · Software Dev @ Pure Platform
+💼  Web Developer · Automation Expert · Software Dev 
 
-🕷️ I build scrapers that crawl Amazon & eBay at scale
 
 ---
 
